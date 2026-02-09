@@ -4,7 +4,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 # how to use ?
 1. clone this project
-2. and clone project : https://github.com/denimubarokhilmi/Facility_Booking_System-_API
+2. and clone project : https://github.com/denimubarokhilmi/Facility_Booking_Systems_API
 3. To set up the project, follow the setup below
 
 ## Recommended IDE Setup
